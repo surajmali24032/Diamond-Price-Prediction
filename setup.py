@@ -18,8 +18,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='RegressorProject',
     version='0.0.1',
-    author='Krissh',
-    author_email='krish.naik@ineuron.ai',
+    author='Suraj',
+    author_email='malisuraj573@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )
